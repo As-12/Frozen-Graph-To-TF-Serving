@@ -4,7 +4,8 @@ This is a notebook project documenting the process of converting a frozen graph 
 
 ## Documentation
 
-Please see the notebook for documentation regarding this process - [Serving Object Detector Model via TF Serving.ipynb](Serving Object Detector Model via TF Serving.ipynb).
+Please see the notebook for documentation regarding this process - [Doc](https://github.com/As-12/Frozen-Graph-To-TF-Serving/blob/master/Serving%20Object%20Detector%20Model%20via%20TF%20Serving.ipynb).
+
 
 ## Final Docker Image
 
