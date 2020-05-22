@@ -4,12 +4,11 @@ This repository documents the process of converting a frozen graph to a SavedMod
 
 ## Documentation
 
-The process is documented in a jupyter notebook - [Serving Object Detector Model via TF Serving.ipynb](Serving Object Detector Model via TF Serving.ipynb).
-PDF format is also available [here](doc.pdf). 
+Please see the notebook for documentation regarding this process - [Doc](https://github.com/As-12/Frozen-Graph-To-TF-Serving/blob/master/Serving%20Object%20Detector%20Model%20via%20TF%20Serving.ipynb).
 
 ## Final Docker Image
 
-For demonstration purposes, a docker image has been created and hosted on Docker Hub. 
+For demonstration purposes, a docker image has been created and hosted on Docker Hub.
 You can pull the docker image via this command.
 
 ```
@@ -43,6 +42,7 @@ docker ps -a
 ```
 
 Also remove any unused downloaded images to save your SSD space.
+
 ```
 docker images
 docker rmi [Image-ID]
